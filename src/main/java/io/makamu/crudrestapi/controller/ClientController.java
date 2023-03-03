@@ -31,7 +31,7 @@ public class ClientController {
 		
 	}
 	
-	@GetMapping("/findbyname/{firstName}")
+	@GetMapping("/findbyname/{git}")
 	public ResponseEntity<Client> getClientByFirstName(@PathVariable("firstName") String firstName) throws ClientExceptionHandler{
 		
 		return ResponseEntity.ok(clientService.searchByFirstName(firstName));

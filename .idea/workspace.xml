@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b845f415-852f-4578-ab36-033cc5ec44d5" name="Default Changelist" comment="" />
+    <list default="true" id="b845f415-852f-4578-ab36-033cc5ec44d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/controller/ClientController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/controller/ClientController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="33" column="39" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="39" />
+            <state relative-caret-position="15">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -50,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/io/makamu/crudrestapi/CrudrestapiApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="104" column="94" selection-start-line="104" selection-start-column="94" selection-end-line="104" selection-end-column="94" />
+            <state relative-caret-position="456">
+              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
             </state>
           </provider>
         </entry>
@@ -112,6 +115,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -119,11 +125,11 @@
         <option value="$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/repository/ClientRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/dto/ClientDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/service/ClientService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/controller/ClientController.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/makamu/crudrestapi/ClientTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/makamu/crudrestapi/TestCrudH2Repository.java" />
         <option value="$PROJECT_DIR$/src/test/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/test/java/io/makamu/crudrestapi/CrudrestapiApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/controller/ClientController.java" />
       </list>
     </option>
   </component>
@@ -139,6 +145,7 @@
     <option name="width" value="928" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -263,7 +270,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1677856554203" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1677858322643" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -404,14 +411,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677843267102</updated>
-      <workItem from="1677843271424" duration="13097000" />
+      <workItem from="1677843271424" duration="15591000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CrudrestapiApplicationTests_getClientByName - 2023.03.03 at 16h 58m 45s.xml">
-      <configuration name="CrudrestapiApplicationTests.getClientByName" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CrudrestapiApplicationTests_getClientByName - 2023.03.03 at 16h 59m 55s.xml">
       <configuration name="CrudrestapiApplicationTests.getClientByName" configurationId="JUnit" />
     </history-entry>
@@ -439,13 +443,15 @@
     <history-entry file="CrudrestapiApplicationTests_getClientByMobile - 2023.03.03 at 17h 09m 13s.xml">
       <configuration name="CrudrestapiApplicationTests.getClientByMobile" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CrudrestapiApplicationTests_updateClient - 2023.03.03 at 17h 19m 02s.xml">
+      <configuration name="CrudrestapiApplicationTests.updateClient" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13097000" />
+    <option name="totallyTimeSpent" value="15591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="27" width="1856" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -455,7 +461,7 @@
       <window_info id="Designer" order="5" />
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.12154696" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32969433" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
@@ -464,7 +470,7 @@
       <window_info anchor="bottom" id="Spring" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32897604" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -567,17 +573,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/controller/ClientController.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/makamu/crudrestapi/CrudrestapiApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="456">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/makamu/crudrestapi/CrudrestapiApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/makamu/crudrestapi/controller/ClientController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="104" column="94" selection-start-line="104" selection-start-column="94" selection-end-line="104" selection-end-column="94" />
+        <state relative-caret-position="15">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
