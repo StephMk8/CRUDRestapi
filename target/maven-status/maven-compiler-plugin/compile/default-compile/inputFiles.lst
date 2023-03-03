@@ -1,0 +1,8 @@
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/io/makamu/crudrestapi/CrudrestapiApplication.java
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/io/makamu/crudrestapi/entity/Client.java
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/io/makamu/crudrestapi/repository/ClientRepository.java
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/io/makamu/crudrestapi/controller/ClientController.java
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/exceptionhandler/ClientExceptionHandler.java
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/io/makamu/crudrestapi/dto/ClientDto.java
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/exceptionhandler/ApplicationExceptionHandler.java
+/home/akani/Downloads/CRUDRestapi-main/src/main/java/io/makamu/crudrestapi/service/ClientService.java

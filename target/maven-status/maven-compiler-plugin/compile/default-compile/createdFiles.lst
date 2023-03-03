@@ -1,0 +1,8 @@
+io/makamu/crudrestapi/repository/ClientRepository.class
+io/makamu/crudrestapi/controller/ClientController.class
+io/makamu/crudrestapi/service/ClientService.class
+io/makamu/crudrestapi/CrudrestapiApplication.class
+io/makamu/crudrestapi/entity/Client.class
+exceptionhandler/ClientExceptionHandler.class
+exceptionhandler/ApplicationExceptionHandler.class
+io/makamu/crudrestapi/dto/ClientDto.class
